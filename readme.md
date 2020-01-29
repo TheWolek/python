@@ -1,6 +1,6 @@
 # This is a python practice repo 4k tzn
 
-Only authorized users can edit files. You can store here files for practing python programming.
+If you are working in VS code, you can install these extensions for python developing
 
 ## Getting Started with VS Code
 
