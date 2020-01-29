@@ -1,0 +1,1 @@
+# Napisz funkcje, która wypisze wszyskie wartości z listy po przecinku

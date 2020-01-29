@@ -1,0 +1,1 @@
+# Napisz funkcje sumującą wszystkie liczby w podanej liście
