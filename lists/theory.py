@@ -32,3 +32,12 @@
 # my_list.pop() => ['xyz']        ['def',true]
 # my_list.pop(1) => true       ['def']
 # my_list.clear()      []
+
+# for item in my_list:
+#     instrukcje
+
+# myList = [8, 10, 6, 2, 4]
+
+# for i in range(len(myList) - 1): # we need (5 - 1) comparisons
+#     if myList[i] > myList[i + 1]: # compare adjacent elements
+#         myList[i], myList[i + 1] = myList[i + 1], myList[i]
