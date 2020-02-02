@@ -3,7 +3,7 @@
 # 3. Close file
 
 # f = open('test.txt','rw')
-# f = open('test2.txt','rwx') jesli plik nie istnieje utworzy go
+# f = open('test2.txt','w+') jesli plik nie istnieje utworzy go
 
 # f.close()
 
