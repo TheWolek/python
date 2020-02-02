@@ -1,4 +1,5 @@
 # my_tuple = ()
+# my_tuple = tuple()
 # my_tuple = (12,)
 # my_tuple = ('abc',20)
 # my_tuple = ('abc',20,[1,2,3],(4,5,6))
