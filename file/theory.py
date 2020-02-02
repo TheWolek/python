@@ -4,6 +4,7 @@
 
 # f = open('test.txt','rw')
 # f = open('test2.txt','w+') jesli plik nie istnieje utworzy go
+# f = open('test3.txt','a') dopisywanie danych
 
 # f.close()
 
@@ -16,3 +17,8 @@
 
 # for line in f:
 #   print(line, end = '')
+
+# cały plik linia po linij
+# fl = f.readlines()
+# form line in fl:
+#   print(line)
