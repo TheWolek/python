@@ -1,19 +1,23 @@
+# name = '\\kat\\plik'
+# name = '/kat/plik'
+
 # 1. Open
 # 2. Read or Write
 # 3. Close file
 
-# f = open('test.txt','rw')
-# f = open('test2.txt','w+') jesli plik nie istnieje utworzy go
-# f = open('test3.txt','a') dopisywanie danych
+# r - read, plik musi istniec
+# w - write, plik nie musi istniec, ponowny zapis usunie zawartos
+# a - append, plik nie musi istniec, dopisywanie na koncu pliku, zapis i odczyt
+# r+ - read + update, plik musi istniec
+# w+ -  write + update, plik nie musi istniec, poprzednia zawartos zostanie nietknieta
+
+f = open('test.txt','r', encoding='utf-8')
+print(f.read())
+f.close()
+# f = open('test2.txt','w+')
+# f = open('test3.txt','a')
 
 # f.close()
-
-#  with open('test.txt','rw') as f:
-#      f.write('first line\n')
-#      f.write('second line')
-
-# f = open('test.txt','r')
-# f.read() => cały plik
 
 # for line in f:
 #   print(line, end = '')
