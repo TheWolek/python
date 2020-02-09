@@ -17,6 +17,8 @@ my_list[1:] # => ['abc',True,['xyz']]
 
 my_list.index(True) # => 1
 len(my_list) # => 3
+my_list.min()
+my_list.max()
 #my_list.sort() # najlepiej gdy mamy dane tego samego typu
 my_list.reverse()
 'abc' in my_list # => True
