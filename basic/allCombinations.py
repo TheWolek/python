@@ -2,7 +2,7 @@
 # liter z podanej listy (każda litera występuje raz)
 import random
 from math import factorial
-char_list = ['a','e','i','o','u']
+char_list = ['a','e','i']
 
 def rand():
     random.shuffle(char_list)
