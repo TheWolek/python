@@ -1,2 +1,9 @@
-# Napisz funkcje szukającą indexu podanej wartości w liście
+# Napisz program szukający indexu podanej wartości w liście
 # metoda index()
+
+nums = [    
+    386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 
+    399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626,
+    815, 67, 104, 58, 512, 24, 717, 
+    958,743, 527
+]

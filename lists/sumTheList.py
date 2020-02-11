@@ -1,1 +1,3 @@
-# Napisz funkcje sumującą wszystkie liczby w podanej liście
+# Napisz program sumujący wszystkie liczby w podanej liście
+
+nums = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
