@@ -4,8 +4,5 @@
 
 nums = {}
 
-def generate():
-    pass
-
-generate()
-print(nums)
+def generate(n):
+    return

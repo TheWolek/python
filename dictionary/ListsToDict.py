@@ -8,6 +8,3 @@ colors = {}
 
 def mapColors():
     return
-
-mapColors()
-print(colors)
