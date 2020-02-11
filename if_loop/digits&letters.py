@@ -2,3 +2,6 @@
 # wyraz jest argumentem wpisanym z palca
 
 #metody isdigit() isalpha()
+
+def countChars(String):
+    return

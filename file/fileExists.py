@@ -1,2 +1,2 @@
-# Napisz funkcje sprawdzającą czy podany plik istnieje
-# import os.path
+# Napisz program sprawdzającą czy podany plik istnieje
+# można użyć try: except:

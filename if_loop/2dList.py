@@ -5,4 +5,7 @@
 # wartości to iloczyn n i m
 # output: [[0,0,0,0],[0,1,2,3],[0,2,4,6]]
 
-# 2x for x in range
+# 2 * for x in range
+
+def generateList(n,m):
+    return
