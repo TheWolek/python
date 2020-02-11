@@ -1,4 +1,4 @@
-# Napisz funkcje, która policzy wystąpienia każzdej z liter w podanym łańcuchu
+# Napisz funkcje, która policzy wystąpienia każdej z liter w podanym łańcuchu
 
 def count_chars(str):
     dict = {}
