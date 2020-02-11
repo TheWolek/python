@@ -2,8 +2,11 @@
 # oraz je wypisze
 # lista jest posortowana rosnaco od 1 do 100
 
+from random import randrange
 nums = [x for x in range(1,41)]
-del nums[2]
+for n in range(1,10):
+    rand = randrange(0,39)
+    del nums[rand]
 print(nums)
 
 def findMissing():
