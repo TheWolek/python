@@ -14,4 +14,8 @@ To do that navigate to file > preferencec > keyboard shortcuts
 type in the search bar 'Python: run python file in terminal'
 double click on one of results and bind this for e.g. 'ctrl+.'
 
+## Otherwise, you can use PyCharm
+
+Shortcut to run a file is Ctrl+Shift+F10
+
 ## I think we are ready to code. Have fun!
